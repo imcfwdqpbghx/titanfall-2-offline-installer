@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Respawn Entertainment gives you the most advanced titan technology in its new, single player campaign & multiplayer experience. Combine & conquer with new titans & pilots, deadlier weapons, & customization and progression systems that help you and your titan flow as one unstoppable killing force.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel Core i3-6300t or equivalent [4 or more hardware t… / Rec: Intel Core i5-6600 or equivalent | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 8 GB RAM / Rec: 16 GB RAM | 8 GB RAM |
+| **Graphics** | Min: NVIDIA Geforce GTX 660 2GB or AMD Radeon HD 7850 2GB / Rec: NVIDIA Geforce GTX 1060 6GB or AMD Radeon RX 480 8GB | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 45 GB available space | 45 GB available space |
+| **OS *** | Win 7/8/8.1/10 64bit | Win 7/8/8.1/10 64bit |
 
 ---
 
